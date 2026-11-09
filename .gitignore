@@ -1,0 +1,7 @@
+/rtmpd
+/out/
+/bin/
+*.log
+*.flv
+.vscode/
+.idea/
